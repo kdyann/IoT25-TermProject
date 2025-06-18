@@ -1,6 +1,6 @@
 # IoT25-TermProject
 Integrated smart system for smoking detection and quitting smoking
-IoT 기반 실내 흡연 감지와 웨어러블 금연 유도 기능의 스마트 시스템
+# IoT 기반 실내 흡연 감지와 웨어러블 금연 유도 기능의 스마트 시스템
 
 ## 📘 프로젝트 소개
 
