@@ -1,5 +1,5 @@
 # IoT25-TermProject
-# IoT 기반 실내 흡연 감지와 웨어러블 금연 유도 기능의 스마트 시스템
+## IoT 기반 실내 흡연 감지와 웨어러블 금연 유도 기능의 스마트 시스템
 Integrated smart system for smoking detection and quitting smoking
 
 
@@ -26,10 +26,3 @@ ESP32, 다양한 센서, TinyML 모델, BLE 비콘, 모바일 앱, 대시보드 
   - 관리자 웹 대시보드: 실시간 감지 현황, 로그 기록
   - 사용자 앱: 스트레스 상태, 흡연 추이 리포트 제공
  
-## 🛠 기술 스택
-센서/하드웨어	MQ-135, DHT22, MPU6050, MAX30100, ESP32
-AI	TensorFlow Lite Micro (TinyML), SVM, Random Forest
-앱	Flutter + BLE
-서버	Node.js + Firebase
-대시보드	React.js
-통신	Wi-Fi, BLE, MQTT
